@@ -14,7 +14,7 @@ $ git init : Git 저장소 초기화 (프로젝트 초기에 한 번만)
 
 $ git status : 저장소 상태 체크 , 현재 프로젝트 변경사항 확인
 
-$ git add. ($ git add -A) : 모든 파일을 staging area로 올리기 (특정 파일을 add : $ git add <filename>)
+$ git add . ($ git add -A) : 모든 파일을 staging area로 올리기 (특정 파일을 add : $ git add <filename>)
 
 $ git commit -m <설명> : 저장소로 commit 하기
 
